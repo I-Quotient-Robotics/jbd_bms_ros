@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # jbd_bms_ros
 ### Battery Management System BMS jbd
 ## Overview
@@ -7,8 +6,8 @@ Information will be displayed dynamically depending on the number of batteries a
 You can also get the error bits of information and the error content.
 ## Equipment Type
 Jbd Power Lithium Battery\
-![](https://github.com/I-Quotient-Robotics/iqr_jbd_bms/blob/master/type_pic/144283718.jpg)
-![](https://github.com/I-Quotient-Robotics/iqr_jbd_bms/blob/master/type_pic/60348685.jpg)
+![](https://github.com/I-Quotient-Robotics/jbd_bms_ros/blob/master/type_pic/144283718.jpg)
+![](https://github.com/I-Quotient-Robotics/jbd_bms_ros/blob/master/type_pic/60348685.jpg)
 
 ## Environment
 Ubuntu16.04\
@@ -53,7 +52,3 @@ roslaunch jbd_bms_bringup jbd_bms_status.launch
 ## Official website
 http://www.jiabaida.com/
 
-=======
-# jbd_bms_ros
-ROS package for Jiabaida BMS
->>>>>>> 794fe117ccaeb42a8473f843fffd22f51655806e
